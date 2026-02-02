@@ -1,0 +1,21 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "this is a node js learing project ",
+  "license": "ISC",
+  "author": "Aditya Kumar Sinha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "express": "^5.2.1",
+    "fs": "^0.0.1-security",
+    "fund": "^1.0.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^9.0.2",
+    "os": "^0.1.2"
+  }
+}
